@@ -97,4 +97,8 @@ Visit [http://localhost:5173](http://localhost:5173)
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for full details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## [☕ Buy Me a Coffee](https://coff.ee/junderscore)
