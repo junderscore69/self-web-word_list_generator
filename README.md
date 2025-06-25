@@ -69,7 +69,7 @@ Visit [http://localhost:5173](http://localhost:5173)
 1. Upload one or more `.txt` files (one word per line)
 2. Choose a combination method
 3. (Optional) Add a character for insertion or check "Include original words"
-4. Click the big “Generate N Words” button
+4. Click the big “Generate # Words” button
 5. Download your new word list
 
 ---
